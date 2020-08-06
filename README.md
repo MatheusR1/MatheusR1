@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**MatheusR1/MatheusR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Matheus Rocha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou Desenvolvedor WEB e mobile
+
+ :rocket:  &nbsp; Estou trabalhando na **Unifor**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
