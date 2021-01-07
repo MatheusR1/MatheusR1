@@ -1,5 +1,6 @@
-![2 - NLW #02 - 1400x900](https://user-images.githubusercontent.com/56950752/89484281-8c679c00-d774-11ea-91eb-10dec0f6c7c9.jpg)
 
+
+![2bc37dee561b2bbf53d9f41dc4f92596](https://user-images.githubusercontent.com/56950752/103897348-2b9d1080-50d2-11eb-9948-62865697f9c9.jpg)
 
 # Matheus Rocha
 
