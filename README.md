@@ -3,12 +3,9 @@
 
 # Matheus Rocha
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.<br/>
-Sou Desenvolvedor Web e mobile.
+ Sou Dev back<br/>
 
  :rocket:  &nbsp;  **3e engenharia**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node.js
- <br/> :blush: &nbsp; Posso te ajudar com Node.js e Ionic
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js,Flutter & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em back-end usando laravel
+ <br/> :blush: &nbsp; Posso te ajudar com laravel
+ <br/> :computer: &nbsp; Minha stack: Angular e laravel
