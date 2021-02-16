@@ -9,4 +9,4 @@
  :rocket:  &nbsp;  **3e engenharia**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em back-end usando laravel
  <br/> :blush: &nbsp; Posso te ajudar com laravel
- <br/> :computer: &nbsp; Minha stack: Angular e laravel
+ <br/> :computer: &nbsp; Minha stack: Vue e laravel
