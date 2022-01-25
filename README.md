@@ -7,6 +7,5 @@
  Sou Dev back<br/>
 
  :rocket:  &nbsp;  **RMS Advogados**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em back-end usando laravel
  <br/> :blush: &nbsp; Posso te ajudar com laravel
  <br/> :computer: &nbsp; Minha stack: Vue e laravel
