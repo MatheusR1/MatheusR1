@@ -8,4 +8,4 @@
 
  :rocket:  &nbsp;  **RMS Advogados**
  <br/> :blush: &nbsp; Posso te ajudar com laravel
- <br/> :computer: &nbsp; Minha stack: Vue e laravel
+ <br/> :computer: &nbsp; Minha stack: Vue , laravel e Python 
